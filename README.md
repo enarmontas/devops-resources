@@ -1,4 +1,4 @@
-List of free engineering resources about Software Engineering, SRE, DevOps and other IT related fields.
+List of free resources about Software Engineering, SRE, DevOps and other IT related fields.
 - [Dropbox Tech Blog](https://blogs.dropbox.com/tech)
 - [Etsy Engineering, Code as Craft](https://codeascraft.com)
 - [Facebook Engineering](https://engineering.fb.com)
