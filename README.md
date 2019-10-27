@@ -8,6 +8,7 @@ List of free resources about Software Engineering, SRE, DevOps and other IT rela
 - [Google Site Reliability Engineering](https://landing.google.com/sre)
 - [LinkedIn Engineering](https://engineering.linkedin.com/blog)
 - [Netflix TechBlog](https://medium.com/netflix-techblog)
+- [Reddit Technology](https://redditblog.com/topic/technology)
 - [Slack Engineering](https://slack.engineering)
 - [Vinted Engineering](https://engineering.vinted.com)
 - [Wix Engineering](https://www.wix.engineering)
