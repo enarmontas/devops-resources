@@ -1,4 +1,4 @@
-List of free resources about SRE, DevOps and Backend Engineering.
+List of free resources about SRE and DevOps.
 
 ### Company Blogs
 - [DigitalOcean Blog](https://digitalocean.com/blog)
