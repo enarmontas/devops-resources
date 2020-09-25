@@ -25,3 +25,9 @@ List of free resources about SRE and DevOps.
 - [DigitalOcean: Infrastructure as a Newsletter](https://digitalocean.com/community/newsletter)
 - [cron.weekly](https://ma.ttias.be/cronweekly)
 - [StatusCode Weekly](https://weekly.statuscode.com)
+
+### Reddit
+- [r/sre](https://reddit.com/r/sre)
+- [r/devops](https://reddit.com/r/devops)
+- [r/sysadmin](https://reddit.com/r/sysadmin)
+- [r/networking](https://reddit.com/r/networking)
