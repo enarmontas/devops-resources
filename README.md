@@ -32,5 +32,12 @@ List of free resources about SRE and DevOps.
 - [r/sysadmin](https://reddit.com/r/sysadmin)
 - [r/networking](https://reddit.com/r/networking)
 
+### People
+- Jeff Geerling, Author and Software Developer / [GitHub](https://github.com/geerlingguy), [Twitter](https://twitter.com/geerlingguy), [Web](https://jeffgeerling.com)
+- Kelsey Hightower, Staff Developer Advocate at [Google Cloud](https://cloud.google.com) / [GitHub](https://github.com/kelseyhightower), [Twitter](https://twitter.com/kelseyhightower)
+- Seth Vargo, Engineer at [Google Cloud](https://cloud.google.com) / [GitHub](https://github.com/sethvargo), [Twitter](https://twitter.com/sethvargo), [Web](https://sethvargo.com)
+- Simon Eskildsen, Principal Engineer at [Shopify](https://shopify.com) / [GitHub](https://github.com/sirupsen), [Twitter](https://twitter.com/Sirupsen), [Web](https://sirupsen.com)
+- Tammy Bryant (Butow), Principal Site Reliability Engineer at [Gremlin](https://gremlin.com) / [GitHub](https://github.com/tammybutow), [Twitter](https://twitter.com/tammyxbryant)
+
 ### Other
-- [DevOps Roadmap](https://roadmap.sh/devops) | Step by step guide for getting into DevOps/SRE.
+- [DevOps Roadmap](https://roadmap.sh/devops) - Step by step guide for getting into DevOps
