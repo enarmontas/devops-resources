@@ -31,3 +31,6 @@ List of free resources about SRE and DevOps.
 - [r/devops](https://reddit.com/r/devops)
 - [r/sysadmin](https://reddit.com/r/sysadmin)
 - [r/networking](https://reddit.com/r/networking)
+
+### Other
+- [DevOps Roadmap](https://roadmap.sh/devops) | Step by step guide for getting into DevOps/SRE.
