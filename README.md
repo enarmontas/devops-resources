@@ -43,3 +43,4 @@ List of free resources about SRE and DevOps.
 
 ### Other
 - [DevOps Roadmap](https://roadmap.sh/devops) - Step by step guide for getting into DevOps
+- [DevOps Roadmap](https://www.scaler.com/blog/devops-roadmap/) - Learn to Become a DevOps Engineer
