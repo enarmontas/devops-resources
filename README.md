@@ -42,5 +42,5 @@ List of free resources about SRE and DevOps.
 - Tammy Bryant (Butow), Principal Site Reliability Engineer at [Gremlin](https://gremlin.com) / [GitHub](https://github.com/tammybutow), [Twitter](https://twitter.com/tammyxbryant)
 
 ### Other
-- [DevOps Roadmap](https://roadmap.sh/devops) - Step by step guide for getting into DevOps
-- [DevOps Roadmap](https://www.scaler.com/blog/devops-roadmap/) - Learn to Become a DevOps Engineer
+- [DevOps Roadmap](https://roadmap.sh/devops) - Step by step guide for getting into DevOps.
+- [Scaler DevOps Roadmap](https://www.scaler.com/blog/devops-roadmap/) - Learn to become a DevOps Engineer.
