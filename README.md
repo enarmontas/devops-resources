@@ -41,6 +41,10 @@ List of free resources about SRE and DevOps.
 - Simon Eskildsen, Principal Engineer at [Shopify](https://shopify.com) / [GitHub](https://github.com/sirupsen), [Twitter](https://twitter.com/Sirupsen), [Web](https://sirupsen.com)
 - Tammy Bryant (Butow), Principal Site Reliability Engineer at [Gremlin](https://gremlin.com) / [GitHub](https://github.com/tammybutow), [Twitter](https://twitter.com/tammyxbryant)
 
+## Tools
+### Terraform
+- [Terraform roadmap](https://roadmap.sh/terraform)
+
 ## Other
 - [DevOps Roadmap](https://roadmap.sh/devops) - Step by step guide for getting into DevOps.
 - [Scaler DevOps Roadmap](https://www.scaler.com/blog/devops-roadmap/) - Learn to become a DevOps Engineer.
